@@ -1,4 +1,4 @@
-_ name: variables
+- name: variables
   host: localhost
   vars: #variable declaration
   Course: "Ansible"
